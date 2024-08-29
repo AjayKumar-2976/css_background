@@ -1,0 +1,35 @@
+body{
+
+    background-image:url("vizag.jpg");
+    background-size: cover;
+ }
+ h1{
+    font-size: 40px;
+  
+   border: 10px red solid;
+     padding: 20px;
+
+    font-family:fantasy;
+   
+    font-size:xx-large;
+    
+    text-shadow: 10px 15px rgb(45, 100, 115);
+}
+
+
+
+#para2{
+    font-size: 23;
+    font-weight: bold;
+    font-family: "Sevillana", cursive;
+  color: rgb(119, 8, 8);
+}
+
+#para3{
+    font-size: 25;
+    font-size: xx-large;
+   
+    font-family: "Caveat", cursive;
+    color: rgb(0, 11, 12);
+}
+
